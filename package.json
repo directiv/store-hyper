@@ -1,0 +1,14 @@
+{
+  "name": "directiv-store-hyper",
+  "version": "0.1.0",
+  "description": "hyper store for directiv",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test ./node_modules/.bin/mocha"
+  },
+  "author": "Cameron Bytheway <bytheway.cameron@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hyper-store": "^0.1.0"
+  }
+}
